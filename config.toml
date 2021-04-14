@@ -1,4 +1,4 @@
-baseurl      = "sebd.it"
+baseurl      = "localhost"
 title        = "Takeover by seb.d"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
