@@ -1,4 +1,4 @@
-baseurl      = "sebd0.github.io"
+baseurl      = ""
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
