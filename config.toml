@@ -20,7 +20,7 @@ paginate     = 20
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Home page"
   keywords = "homepage, blog"
   images = [""]
 
@@ -30,7 +30,6 @@ paginate     = 20
     title = "Takeover by seb.d"
     subtitle = "A blog by Sebastian Dugudae"
     keywords = ""
-    readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "home"
