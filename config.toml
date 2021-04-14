@@ -39,10 +39,35 @@ paginate     = 20
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
+    
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sebastian-dugudae/"
+    
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/_sebd"
+    
+  [[params.social]]
+    name = "hackerone"
+    url = "https://hackerone.com/sebd?type=user"
+  
   [[params.social]]
     name = "github"
     url = "https://github.com/sebd0"
-
+    
+  [[params.social]]
+    name = "case"
+    url = "https://bugcrowd.com/sebd"
+  
+  [[params.social]]
+    name = "case"
+    url = "https://app.intigriti.com/researcher/profile/sebd"
+  
+  [[params.social]]
+    name = "case"
+    url = "https://app.hackthebox.eu/profile/76681"
+    
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
