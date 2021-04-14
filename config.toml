@@ -1,5 +1,5 @@
 baseurl      = "./"
-title        = "Takeover by seb.d"
+title        = "Takeover by seb.d - test"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 20
@@ -11,7 +11,7 @@ paginate     = 20
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = ""
+  homeSubtitle = "A blog by Sebastian Dugudae"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -26,6 +26,7 @@ paginate     = 20
 
 [languages]
   [languages.en]
+    # in tab
     title = "Takeover by seb.d"
     subtitle = "A blog by Sebastian Dugudae"
     keywords = ""
