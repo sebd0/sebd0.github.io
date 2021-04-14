@@ -1,4 +1,4 @@
-baseurl      = "./"
+baseurl      = "/"
 title        = "Takeover by seb.d"
 languageCode = "en-us"
 theme        = "hello-friend-ng_pers"
@@ -11,7 +11,7 @@ paginate     = 20
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A blog by Sebastian Dugudae"
+  homeSubtitle = "Portfolio of Sebastian Dugudae"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -28,8 +28,9 @@ paginate     = 20
   [languages.en]
     # in tab
     title = "Takeover by seb.d"
-    subtitle = "A blog by Sebastian Dugudae"
+    subtitle = "Portfolio of Sebastian Dugudae"
     keywords = ""
+    readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "home"
@@ -38,9 +39,47 @@ paginate     = 20
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
-
+    
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sebastian-dugudae/"
+    
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/_sebd"
+    
+  [[params.social]]
+    name = "hackerone"
+    url = "https://hackerone.com/sebd?type=user"
+  
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/sebd0"
+    
+  [[params.social]]
+    name = "case"
+    url = "https://bugcrowd.com/sebd"
+  
+  [[params.social]]
+    name = "case"
+    url = "https://app.intigriti.com/researcher/profile/sebd"
+  
+  [[params.social]]
+    name = "case"
+    url = "https://app.hackthebox.eu/profile/76681"
+    
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "https://medium.com/@seb.d"
+    
+  [[menu.main]]
+    identifier = "achievements"
+    name       = "Achievements"
+    url        = "/achievements"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    
