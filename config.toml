@@ -46,6 +46,11 @@ paginate     = 20
     name       = "Blog"
     url        = "https://medium.com/@seb.d"
     
-    identifier = "blog"
-    name       = "Blog"
-    url        = "https://medium.com/@seb.d"
+    identifier = "achievements"
+    name       = "Achievements"
+    url        = "/achievements"
+    
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    
