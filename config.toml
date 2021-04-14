@@ -1,5 +1,5 @@
 baseurl      = "./"
-title        = "Takeover by seb.d - test"
+title        = "Takeover by seb.d"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 20
