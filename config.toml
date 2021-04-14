@@ -1,7 +1,7 @@
 baseurl      = "./"
 title        = "Takeover by seb.d"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hello-friend-ng_pers"
 paginate     = 20
 
 [params]
