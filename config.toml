@@ -57,7 +57,7 @@ paginate     = 20
     url = "https://github.com/sebd0"
     
   [[params.social]]
-    name = "case"
+    name = "bugcrowd"
     url = "https://bugcrowd.com/sebd"
   
   [[params.social]]
@@ -65,7 +65,7 @@ paginate     = 20
     url = "https://app.intigriti.com/researcher/profile/sebd"
   
   [[params.social]]
-    name = "case"
+    name = "hackthebox"
     url = "https://app.hackthebox.eu/profile/76681"
     
   # And you can even create generic menu
