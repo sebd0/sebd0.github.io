@@ -11,7 +11,7 @@ paginate     = 20
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A blog by Sebastian Dugudae"
+  homeSubtitle = "Portfolio of Sebastian Dugudae"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -30,6 +30,7 @@ paginate     = 20
     title = "Takeover by seb.d"
     subtitle = "A blog by Sebastian Dugudae"
     keywords = ""
+    readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "home"
@@ -41,6 +42,10 @@ paginate     = 20
 
   # And you can even create generic menu
   [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "https://medium.com/@seb.d"
+    
     identifier = "blog"
     name       = "Blog"
     url        = "https://medium.com/@seb.d"
